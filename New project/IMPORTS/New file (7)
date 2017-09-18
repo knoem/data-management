@@ -18,7 +18,8 @@
       "Sheet": "Sheet1",
       "SelectSheets": true,
       "Sheets": [
-         "Sheet1"
+         "Sheet1",
+         "Sheet2"
       ],
       "UnpivotDataTop": 5,
       "UnpivotDataLeft": 2,
