@@ -4,7 +4,7 @@
       "Metadata": {
          "Name": "test",
          "DatasetId": "",
-         "Host": "knoema.com",
+         "Host": "beta.knoema.org",
          "Description": "",
          "Source": "",
          "ReferenceUrl": "",
@@ -18,8 +18,7 @@
       "Sheet": "Sheet1",
       "SelectSheets": true,
       "Sheets": [
-         "Sheet1",
-         "Sheet2"
+         "Sheet1"
       ],
       "UnpivotDataTop": 5,
       "UnpivotDataLeft": 2,
