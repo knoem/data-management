@@ -1,0 +1,15 @@
+{
+   "TargetDatasetPath": null,
+   "SourceDatasetPath": null,
+   "IsSourceDataset": true,
+   "IsUpdateTargetDataset": false,
+   "DimensionMapping": [],
+   "SourceTargetMapping": [],
+   "NewDatasetSettings": {
+      "Host": "beta.knoema.org",
+      "AppId": "",
+      "AppSecret": "",
+      "DatasetName": "aaa"
+   },
+   "Filters": null
+}
