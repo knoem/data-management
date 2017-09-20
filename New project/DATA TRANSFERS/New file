@@ -1,7 +1,7 @@
 {
    "TargetDatasetPath": null,
    "SourceDatasetPath": null,
-   "IsSourceDataset": false,
+   "IsSourceDataset": true,
    "IsUpdateTargetDataset": false,
    "DimensionMapping": [],
    "SourceTargetMapping": [],
